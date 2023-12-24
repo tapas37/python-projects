@@ -1,6 +1,6 @@
 # 2d keypad
 
-#-->we use tule insted list coz-->tuple is faster,unchangeable
+#-->we use tuple insted list coz-->tuple is faster,unchangeable
 
 num_pad=((1,2,3),
          (4,5,6),
